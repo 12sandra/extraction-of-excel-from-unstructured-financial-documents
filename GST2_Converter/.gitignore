@@ -12,6 +12,3 @@ logs/*.log
 # Frontend dependencies
 node_modules/
 dist/
-
-# Large ML Models (to be safe)
-ml_models/
