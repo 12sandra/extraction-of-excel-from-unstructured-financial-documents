@@ -1,0 +1,17 @@
+# Python bytecode
+**/__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Large Media/Uploads
+media/uploads/*.pdf
+logs/*.log
+
+# Frontend dependencies
+node_modules/
+dist/
+
+# Large ML Models (to be safe)
+ml_models/
